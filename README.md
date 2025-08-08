@@ -6,7 +6,7 @@
 - ExpressJS (Node.js) my go-to for building lightweight, fast, and scalable backend APIs. Minimal and unopinionated, with a ton of middleware options—perfect for REST APIs, microservices, and even just acting as a backend layer for SPAs and mobile apps.  
 - 🌱 I’m currently learning and testing the bounds of AI, more specifically Claude Code, Cursor, ChatGPT, while mostly relying on Claude's Sonnet. 
 - 💞️ I’m looking to collaborate on new business ventures centered around anything connected to the internet.
-- 📫 How to reach me Discord: Marcus#0204 Email: marcus@highlevelsolutions.org
+- 📫 How to reach me Discord: mw.dev Email: marcus@highlevelsolutions.org
 
 <!---
 Marcus/Mvrcus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
